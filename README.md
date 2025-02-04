@@ -1,4 +1,4 @@
-<h1>Testing some C features.</h1>
+<h1>Testing some C features with simple examples.</h1>
 <ul>
   <li>clock</li>
   <li>mergesort</li>
